@@ -236,7 +236,7 @@ header{
 }
 
 .btnComprar:hover {
-    background-color: grey;
+    background-color: #28a745;
     color: white;
 }
 
@@ -525,8 +525,16 @@ th{
 .imgProdutoCarrinho{
     width: 100px;
 }
-.btnProduto{
-    background: #00aec5;
+.btnProdutoMais{
+    background-color: #28a745 !important;
+    border-radius: 10px;
+    border: 5px;
+    padding: 5px;
+    color: white;
+}
+
+.btnProdutoMenos{
+    background-color: #ea1c0d;
     border-radius: 10px;
     border: 5px;
     padding: 5px;
@@ -552,7 +560,7 @@ th{
 }
 .btnContinuar{
     width: 100%;
-    background-color: green !important;
+    background-color: #28a745 !important;
     border-radius: 10px;
     border: 0;
     color: white;

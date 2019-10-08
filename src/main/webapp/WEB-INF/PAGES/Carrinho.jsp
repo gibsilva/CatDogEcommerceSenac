@@ -33,11 +33,11 @@
                                     <td>Ração Golden Duo para Cães Adultos Sabor Frango e Carne - 15kg</td>
                                     <td>R$125,90</td>
                                     <td >
-                                        <button class="btnProduto">
+                                        <button class="btnProdutoMais">
                                             <i class="fas fa-plus"></i>
                                         </button>
                                         1
-                                        <button class="btnProduto">
+                                        <button class="btnProdutoMenos">
                                             <i class="fas fa-minus"></i>
                                         </button>
                                     </td>
@@ -47,11 +47,11 @@
                                     <td>Ração Golden Duo para Cães Adultos Sabor Frango e Carne - 15kg</td>
                                     <td>R$125,90</td>
                                     <td >
-                                        <button class="btnProduto">
+                                        <button class="btnProdutoMais">
                                             <i class="fas fa-plus"></i>
                                         </button>
                                         1
-                                        <button class="btnProduto">
+                                        <button class="btnProdutoMenos">
                                             <i class="fas fa-minus"></i>
                                         </button>
                                     </td>
@@ -61,11 +61,11 @@
                                     <td>Ração Golden Duo para Cães Adultos Sabor Frango e Carne - 15kg</td>
                                     <td>R$125,90</td>
                                     <td >
-                                        <button class="btnProduto">
+                                        <button class="btnProdutoMais">
                                             <i class="fas fa-plus"></i>
                                         </button>
                                         1
-                                        <button class="btnProduto">
+                                        <button class="btnProdutoMenos">
                                             <i class="fas fa-minus"></i>
                                         </button>
                                     </td>
