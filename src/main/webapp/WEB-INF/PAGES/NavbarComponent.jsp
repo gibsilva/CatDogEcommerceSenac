@@ -71,7 +71,7 @@
                                 </div>
                             </a>
                             <div class="dropdown-menu dropdown-with-icons">
-                                <a href="${pageContext.request.contextPath}/listaProdutos" class="dropdown-item">
+                                <a href="#" class="dropdown-item">
                                     <i class="material-icons"></i> Alimentos
                                 </a>
                                 <a href="#" class="dropdown-item">
@@ -178,14 +178,6 @@
                 </div>
             </div>
         </div>
-
-        <!--   Core JS Files   
-        <script src="./assets/js/core/jquery.min.js" type="text/javascript"></script>
-        <script src="./assets/js/core/popper.min.js" type="text/javascript"></script>
-        <script src="./assets/js/core/bootstrap-material-design.min.js" type="text/javascript"></script>       
-        <script src="./assets/js/plugins/moment.min.js"></script>
-        <script src="./assets/js/material-kit.js?v=2.0.5" type="text/javascript"></script>
-        -->
 
         <!--   Core JS Files   -->
         <script src="./assets/js/core/jquery.min.js" type="text/javascript"></script>
